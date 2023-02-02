@@ -19,7 +19,7 @@ export default function Home() {
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx </code>
-            or do something else, I couldn't care less. But I think we can all chuckle at the fact that I made a whole ass website for like 4 links
+            or do something else, I could not care less. But I think we can all chuckle at the fact that I made a whole ass website for like 4 links
           </p>
           <div>
             <a
@@ -99,7 +99,7 @@ export default function Home() {
               Projects <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Someone else's better website with a bunch of known opensource projects to check out
+              Someone elses better website with a bunch of known opensource projects to check out
             </p>
           </a>
 
@@ -113,7 +113,7 @@ export default function Home() {
               Contribute to this code <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              It's fun, easy, and educational?
+              Its fun, easy, and educational?
             </p>
           </a>
         </div>
