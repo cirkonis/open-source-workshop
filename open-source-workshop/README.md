@@ -2,10 +2,10 @@ YOU CAN ADD STUFF TO THIS APP...
 
 Consider this my contribution guide lines
 
-1: dont ask me what you can contribute, just do it.
+1: Don't ask me what you can contribute, just do it.
 2: Do it
-3: dont even open a PR if you dont want to, just push stuff and see what happens
-4: if you break it.... maybe dont even fix it
+3: Don't even open a PR if you Don't want to, just push stuff and see what happens
+4: if you break it.... maybe Don't even fix it
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
